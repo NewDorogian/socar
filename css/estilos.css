@@ -1,0 +1,17 @@
+body {background-color: rgba(158, 158, 158, 0.767);}
+a:link, a:visited, a:active {text-decoration: none;}
+h1 {font-family: Candara;font-size: xx-large;text-align: center;}
+h3 {font-family: Candara;font-size: large; text-align: center;}
+.master {list-style: none;justify-content: center; display: flex;width: 100%; 
+    height: 100%; clear: both;}
+.enlaces {list-style: none;justify-content: center; display: flex;width: 100%; 
+    height: 100%; float: left;}
+.enlaces img {width:300px; height:300px; display:block; margin: auto;}
+.enlaces p{font-family: Candara; text-align: center; color: black;}
+.item {background-color: white; 
+    margin: 10px; width: 70%; height: 50%; padding: 1px; clear: both;
+    border-style: solid;border-color: white; border-radius: 10px;}
+#coti {background-color: white; 
+        margin: 10px; width: 70%; height: 50%; padding: 1px; clear: both;
+        border-style: solid;border-color: white; border-radius: 10px;}
+.back {margin: 10px; justify-content: center; display: flex;}

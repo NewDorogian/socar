@@ -1,0 +1,12 @@
+body {background-color:  rgba(158, 158, 158, 0.767);}
+a:link, a:visited, a:active {text-decoration: none;}
+#titulo h1 {font-family: Candara;font-size: larger;text-align: center;}
+#titulo h3 {font-family: Candara;font-size: medium; text-align: center;}
+.central {list-style: none;justify-content: center; display: flexbox;width: 550px; padding: 5px; 
+    margin: auto; align-items: center;
+    height: 100%; background-color: white; border-style: solid; border-color: white; border-radius: 10px;}
+.central img {width:500px; height:500px; display:block; margin: auto; float: left;}
+.central h4, .central h3{font-family: Candara; text-align: justify; color: black;display: inline-block;}
+.central h2, .central h1{font-family: Candara; text-align: center; color: black;display: inline-block;
+    margin: 0 auto;}
+.back {margin: 10px; justify-content: center; display: flex;}
